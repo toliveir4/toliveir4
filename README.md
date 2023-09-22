@@ -2,7 +2,7 @@
 
 Already finished my Computer Science Bachelor and currently studying for a Software Engineering Master's Degree at [@FCTUC](https://www.uc.pt/fctuc)
 
-Currently working at [@The Loop Co.](https://www.theloop.pt/) and as an External Consultant at [@Deloitte PT](https://www2.deloitte.com/pt/pt.html), developing Azure Functions.
+Currently working at [@The Loop Co.](https://www.theloop.pt/) and as an External Consultant at [@Deloitte PT](https://www2.deloitte.com/pt/pt.html), developing Azure Functions in C#.
 
 <br>
 
